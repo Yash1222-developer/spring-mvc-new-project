@@ -1,1 +1,1 @@
-# spring-mvc-new-project
+# Online Shopping Portal
